@@ -1,0 +1,8 @@
+
+{
+  "name": "Aayu: Your AI Companion",
+  "description": "A warm, empathetic AI chat companion named Aayu, designed to provide thoughtful conversation and emotional support in English and Hindi for users feeling lonely or isolated.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
